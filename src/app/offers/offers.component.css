@@ -1,0 +1,18 @@
+#offers img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.big, .happily {
+  background: linear-gradient(rgba(255, 241, 0, 0.8), rgba(255, 241, 0, 0.8));
+}
+
+#offers {
+  text-align: center;
+}
+
+#offers h3 {
+  font-weight: 300;
+  font-size: 30px;
+}
